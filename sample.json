@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 24,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Stephen Collinson",
+            "title": "Trump’s latest delay tactic over Mar-a-Lago documents may not work for him at the Supreme Court",
+            "description": "If at first you don't succeed, try, try again.",
+            "url": "https://www.cnn.com/2022/10/05/politics/trump-supreme-court-mar-a-lago-documents/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221004194436-donald-trump-1001.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-05T11:05:00+00:00",
+            "content": "If at first you dont succeed, try, try again.\r\nThe right wing Supreme Court majority built by ex-President Donald Trump has ruled just as conservatives had hoped on politically charged cases on abort… [+6419 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": null,
+            "title": "What exactly was Roger Stone's role in Capitol riot? The next Jan. 6 hearing could tell us",
+            "description": "The Jan. 6 committee reportedly has lots of new evidence about Stone's alleged role in Donald Trump's efforts to overturn the 2020 election.",
+            "url": "https://www.usatoday.com/story/news/politics/2022/10/05/trump-ally-roger-stone-jan-6-hearing/10451558002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2021/12/17/USAT/a93f88f5-2231-49c1-9685-60edf0a8a4c1-stone.jpg?auto=webp&crop=3970,2234,x0,y202&format=pjpg&width=1200",
+            "publishedAt": "2022-10-05T09:01:16+00:00",
+            "content": "At its upcoming hearing, the House committee investigating the Jan. 6, 2021 attack on the U.S. Capitol is expected to train a spotlight on the activities of political “agent provocateur” Roger Stone,… [+11548 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Jan Wolfe and Alex Leary",
+            "title": "Trump Asks Supreme Court to Intervene in Mar-a-Lago Documents Fight",
+            "description": "The former president’s lawyers ask the court to expand role of court-appointed special master.",
+            "url": "https://www.wsj.com/articles/trump-asks-supreme-court-to-intervene-in-mar-a-lago-documents-fight-11664913936?mod=hp_lead_pos12",
+            "urlToImage": "https://images.wsj.net/im-636955/social",
+            "publishedAt": "2022-10-05T05:53:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": null,
+            "title": "What Trump's outreach to the Supreme Court is really all about",
+            "description": "Charlie Savage, national security reporter for the New York Times, talks with Alex Wagner about Donald Trump's request for relief from the Supreme Court in the Mar-a-Lago case and what the consequences might be if the court gives Trump what he wants.",
+            "url": "https://www.msnbc.com/alex-wagner-tonight/watch/what-trump-s-outreach-to-the-supreme-court-is-really-all-about-149917765747",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2022_10/1664948265683_n_wagner_savage_221004_1920x1080-16l77a.jpg",
+            "publishedAt": "2022-10-05T05:38:58Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Stephen Collinson",
+            "title": "Trump’s latest delay tactic over Mar-a-Lago documents may not work for him at the Supreme Court",
+            "description": "If at first you don't succeed, try, try again.",
+            "url": "http://us.cnn.com/2022/10/05/politics/trump-supreme-court-mar-a-lago-documents/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221004194436-donald-trump-1001.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-05T04:01:05Z",
+            "content": "If at first you dont succeed, try, try again.\r\nThe right wing Supreme Court majority built by ex-President Donald Trump has ruled just as conservatives had hoped on politically charged cases on abort… [+6419 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Trump seeks Supreme Court ruling in Mar-a-Lago dispute",
+            "description": "The former president wants an outside expert to vet 103 documents with classification markings.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-63139649",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/70AF/production/_126974882_gettyimages-1243657138.jpg",
+            "publishedAt": "2022-10-05T01:22:17.1807996Z",
+            "content": "Ex-US President Donald Trump has asked the Supreme Court to intervene in the dispute over sensitive documents seized by the FBI during a search of his Florida estate in August.\r\nMr Trump wants the ju… [+1969 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Ja&#x27;han Jones",
+            "title": "Trump continues to skate as more Mar-a-Lago details emerge",
+            "description": "It's hard to fathom low-level criminals being granted the same deference that Trump and his associates have been given by the DOJ despite clear red flags.",
+            "url": "https://www.msnbc.com/the-reidout/reidout-blog/justice-department-trump-documents-waiting-rcna50483",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-10/221003-ROB-Trump-Tyrant-jg-b28697.jpg",
+            "publishedAt": "2022-10-04T22:52:47Z",
+            "content": "Over the weekend, we learned the National Archives apparently has reason to believe that it still hasnt recovered all of the documents former President Donald Trump had in his possession after he lef… [+3045 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Hayes Brown",
+            "title": "Trump's defamation suit against CNN is a hilarious mistake",
+            "description": "Donald Trump sued CNN alleging slander and libel for using the \"Big Lie,\" a term associated with the Nazis, to refer to his 2020 presidential election fraud lies.",
+            "url": "https://www.msnbc.com/opinion/msnbc-opinion/trump-s-defamation-suit-against-cnn-hilarious-mistake-n1299308",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2022_40/3574002/221003-trump-cnn-jg.jpg",
+            "publishedAt": "2022-10-04T22:39:00Z",
+            "content": "Former President Donald Trump is not a Nazi. He is not, nor has it been reported that he has ever been, a member of the National Socialist Party. He also is not, in fact, some sort of genetic copy of… [+7155 chars]"
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Caroline Downey",
+            "title": "Trump Asks Supreme Court to Intervene in Mar-a-Lago Records Case",
+            "description": "Trump’s legal team argued that the U.S. Court of Appeals for the Eleventh Circuit wrongly issued a stay on a Judge Aileen Cannon’s special master order.",
+            "url": "https://www.nationalreview.com/news/trump-asks-supreme-court-to-intervene-in-mar-a-lago-records-case/",
+            "urlToImage": "https://www.nationalreview.com/wp-content/uploads/2022/08/TrumpMaraLago.jpg?fit=2057%2C1200",
+            "publishedAt": "2022-10-04T21:14:49Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": null,
+            "title": "Trump asks Supreme Court to block DOJ from accessing seized classified documents",
+            "description": "Former President Donald Trump has reportedly asked the Supreme Court to block the Department of Justice from accessing classified documents that were seized from Mar-a-Lago. MSNBC's Nicolle Wallace looks at the latest developments in the case with Carol Leonn…",
+            "url": "https://www.msnbc.com/deadline-white-house/watch/trump-asks-supreme-court-to-block-doj-from-accessing-seized-classified-documents-149883973766",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2022_10/1664916124227_n_wh_deadline_bkr_trump_docs_221004_1920x1080-d3c60l.jpg",
+            "publishedAt": "2022-10-04T20:43:22Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Julio Ricardo Varela",
+            "title": "Why Brazil's 2022 election is a threat to American democracy",
+            "description": "The race between Jair Bolsonaro and Luiz Inácio “Lula” da Silva is surprisingly close, and Bolsonaro is using election tactics straight from Donald Trump's playbook.",
+            "url": "https://www.msnbc.com/opinion/msnbc-opinion/why-brazil-s-2022-election-threat-american-democracy-n1299295",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_42/3491249/210715-bolsonaro-hiccups-mc-1021232.jpg",
+            "publishedAt": "2022-10-04T20:42:00Z",
+            "content": "About a year ago, Brazil's right-wing president and Covid denier, Jair Bolsonaro, was accused of crimes against humanity for his response to the pandemic. As I wrote back then, Bolsonaro used pages f… [+4666 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Erik Wemple",
+            "title": "Trump sued CNN for defamation. Here’s where his case falls apart.",
+            "description": "The former president's legal complaint attacks CNN for allegedly defamatory statements. It's actually a good guide to First Amendment principles.",
+            "url": "https://www.washingtonpost.com/opinions/2022/10/04/trump-lawsuit-cnn-defamation-debunked/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/733ZNCCCLEI63PQXRHF6NOGAUU.jpg&w=1440",
+            "publishedAt": "2022-10-04T18:51:14Z",
+            "content": "Did Donald Trump miss the news? Under Chris Licht, CNNs new chairman and CEO, the network is embracing middle-of-the-road newscasting and has parted ways with high-profile staffers who spoke in blunt… [+6460 chars]"
+        },
+        {
+            "source": {
+                "id": "the-huffington-post",
+                "name": "The Huffington Post"
+            },
+            "author": "Lee Moran",
+            "title": "George Conway Envisions Nightmare Scenario Before Donald Trump’s Final Reckoning",
+            "description": "The conservative attorney predicted how the former president \"is going to make things much worse in this country before things finally get better.\"",
+            "url": "https://www.huffpost.com/entry/george-conway-donald-trump-prediction_n_633bea8be4b0e376dbfa29dc",
+            "urlToImage": "https://img.huffingtonpost.com/asset/62fc60ad2300005a000ae2c9.jpeg?cache=rC0osmp0Ef&ops=1200_630",
+            "publishedAt": "2022-10-04T09:19:33Z",
+            "content": "George Conway predicted the reckoning is finally coming for Donald Trump.\r\nThe former president is in a downward psychological, emotional and physical spiral and in all likelihood will soon be convic… [+910 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Ewan Palmer",
+            "title": "Donald Trump is Being Bullied Out of Running for President Again—Attorney",
+            "description": "Alina Habba said, \"Keep going, guys, because he does not get intimidated,\" on Newsmax's \"Eric Bolling the Balance.\"",
+            "url": "https://www.newsweek.com/trump-bullied-2024-election-alina-habba-1747792",
+            "urlToImage": "https://d.newsweek.com/en/full/2125695/trump-bullied-2024.jpg",
+            "publishedAt": "2022-09-30T09:57:44Z",
+            "content": "An attorney for Donald Trump has claimed that he is being \"bullied\" out of running for president again in 2024.\r\nSpeaking to Newsmax's Eric Bolling the Balance, Alina Habba said that the former presi… [+1124 chars]"
+        },
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": "Lawrence Martin",
+            "title": "Liz Cheney is making headway in slaying the Trump dragon",
+            "description": "By spearheading congressional hearings into the Jan. 6 attack on the Capitol, the representative is fast becoming an American heroine",
+            "url": "https://www.theglobeandmail.com/opinion/article-liz-cheney-is-making-headway-in-slaying-the-trump-dragon/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/wCgPPEAVIFE4MLAb_xauhJzJqLI=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/YT6S7Z443RL23MYNL4VZY4WXRQ.jpg",
+            "publishedAt": "2022-06-15T19:24:08Z",
+            "content": "Vice Chair Liz Cheney, Rep. Adam Schiff, and Rep. Adam Kinzinger, stand together during a break as the House select committee investigating the Jan. 6 attack on the U.S. Capitol holds its first publi… [+4635 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Eamon Barrett",
+            "title": "A new report shows how badly the Trump administration slashed the U.S.’s climate credentials",
+            "description": "The ranking from Yale University says decisions made by the Trump administration slashed the country's climate credentials",
+            "url": "https://fortune.com/2022/06/01/trump-us-climate-action-paris-accord-methane-yale-environmental-performance-index/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/06/GettyImages-1342340441-e1654072113634.jpg?resize=1200,600",
+            "publishedAt": "2022-06-01T10:31:29Z",
+            "content": "Skip to Content"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Rachel Frazin",
+            "title": "Supreme Court halts ruling against Trump Clean Water Act rollback in 5-4 decision",
+            "description": "The Supreme Court has halted a prior court ruling that struck down a Trump-era rule that limited state and tribal authority to veto projects that could impact their waters, including pipelines.  The Trump rule in question, which was nixed by a federal court i…",
+            "url": "https://thehill.com/policy/equilibrium-sustainability/3260315-supreme-court-halts-ruling-against-trump-clean-water-act-rollback-in-5-4-decision/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2021/09/newsletter-supremecourt_090221getty.jpg?w=1280",
+            "publishedAt": "2022-04-06T14:18:04Z",
+            "content": "The Supreme Court has halted a prior court ruling that struck down a Trump-era rule that limited state and tribal authority to veto projects that could impact their waters, including pipelines. \r\nThe… [+1936 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Jordain Carney, Peter Sullivan",
+            "title": "Trump-era fight snags COVID deal",
+            "description": "Congress appears poised to punt a $10 billion deal on coronavirus relief until after a looming two-week break, as multiple stumbling blocks are complicating quick passage of the agreement.   A bipartisan group of senators announced this week that they had cli…",
+            "url": "https://thehill.com/news/3260056-trump-era-fight-snags-covid-deal/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2022/04/thunejohn_040522arl2_lead.jpg?w=1280",
+            "publishedAt": "2022-04-06T10:00:00Z",
+            "content": "Congress appears poised to punt a $10 billion deal on coronavirus relief until after a looming two-week break, as multiple stumbling blocks are complicating quick passage of the agreement.  \r\nA bipar… [+5716 chars]"
+        },
+        {
+            "source": {
+                "id": "aftenposten",
+                "name": "Aftenposten"
+            },
+            "author": "NTB-AP-AFP",
+            "title": "Oberstløytnant som vitnet mot Trump, går av",
+            "description": "Oberstløytnant Alexander Vindman, som vitnet mot president Donald Trump i riksrettssaken, orker ikke mer mobbing og trekker seg fra hæren.",
+            "url": "https://www.aftenposten.no/verden/i/y3QoOK/Oberstloytnant-som-vitnet-mot-Trump_-gar-av",
+            "urlToImage": "https://premium.vgc.no/ap/images/bd89d0be-e705-4c34-9d52-1a56b5059cd6?fit=crop&q=80&w=1440",
+            "publishedAt": "2020-07-09T05:07:25.190605Z",
+            "content": "smp-stories-top-widget\r\nVindman fikk sparken fra sin stilling i det nasjonale sikkerhetsrådet i Det hvite hus i februar, to dager etter at president Donald Trump ble frikjent.\r\nVindman lå an til forf… [+1055 chars]"
+        },
+        {
+            "source": {
+                "id": "vice-news",
+                "name": "Vice News"
+            },
+            "author": "David Gilbert",
+            "title": "Far-Right Social Network Gab Has a Verified Account Waiting For Trump With 27,000 Followers",
+            "description": "Gab users have been instructed to tweet at and write to the president urging him to join the network, which is filled with conspiracy theories, racism, and antisemitism.",
+            "url": "https://www.vice.com/en_us/article/z3exw4/far-right-social-network-gab-has-a-verified-account-waiting-for-trump-with-27000-followers",
+            "urlToImage": "https://video-images.vice.com/test-uploads/articles/5ecfac1d185c22009661743b/lede/1590670574578-AP_20143569698255.jpeg?crop=1xw:0.8427xh;0xw,0.1573xh&resize=1200:*",
+            "publishedAt": "2020-05-28T13:56:57Z",
+            "content": "Want the best of VICE News straight to your inbox? Sign up here.\r\n As President Donald Trump fumes at Twitters decision to fact-check two of his tweets this week, a ready-made replacement social netw… [+3512 chars]"
+        }
+    ]
+}
