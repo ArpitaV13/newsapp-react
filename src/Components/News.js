@@ -8,7 +8,7 @@ export class News extends Component {
         super();
         
     this.state={
-      loading:true,
+
         articles:this.articles,
     }
 }
