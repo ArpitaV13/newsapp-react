@@ -84,10 +84,10 @@ setPage(page-1);
                 </div>
         </InfiniteScroll>
       
-        <div className="container d-flex justify-content-between">
+        {/* <div className="container d-flex justify-content-between">
           <button type="button" disabled={page<=1} onClick={handlePrevClick} className='btn btn-dark'>&larr; Previous</button>
           <button disabled={page+1>Math.ceil(totalResults/props.pageSize)} type="button" onClick={handleNextClick} className='btn btn-dark'>Next &rarr;</button>
-        </div>
+        </div> */}
       
       </div>
     )
